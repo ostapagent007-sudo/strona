@@ -8,31 +8,31 @@ PROMPTY DO GENEROWANIA GRAFIK:
 ================================
 
 1. HEADER - Widok Ziemi z Kosmosu
-   Prompt: "A breathtaking view of Earth from space, with blue oceans, white clouds, and continents visible below. The curve of Earth is clearly shown against black space with stars. High resolution, realistic, NASA quality photograph"
+   Prompt: "widok Ziemi z kosmosu, z niebieskimi oceanami, białymi chmurami i widocznymi kontynentami poniżej. Krzywizna Ziemi jest wyraźnie zarysowana na tle czarnej przestrzeni kosmicznej z gwiazdami."
    Plik: images/header.jpg
    Zastosowanie: Strona główna (index.html)
    Wymiary: 1200x600px
 
 2. HISTORIA EKSPLORACJI KOSMOSU
-   Prompt: "A timeline illustration showing the history of space exploration from Sputnik 1957 to modern space tourism. Include iconic elements: rocket, astronaut, lunar module, ISS, SpaceX Starship. Colorful, educational, retro-futuristic style"
+   Prompt: "Ilustracja osi czasu przedstawiająca historię eksploracji kosmosu od Sputnika z 1957 roku po współczesną turystykę kosmiczną. Uwzględnij ikoniczne elementy: rakietę, astronautę, moduł księżycowy, ISS oraz SpaceX Starship. Kolorowy, edukacyjny styl retro-futurystyczny."
    Plik: images/historia.jpg
    Zastosowanie: historia-kosmosu.html
    Wymiary: 1200x600px
 
 3. RAKIETA NA STARCIE
-   Prompt: "A SpaceX Falcon 9 rocket launching into the sky with massive flames and smoke billowing below. Dramatic perspective from ground level. Golden hour lighting, intense energy, cinematic quality"
+   Prompt: "Rakieta SpaceX Falcon 9 startująca w niebo, z ogromnymi płomieniami i kłębami dymu unoszącymi się poniżej. Dramatyczna perspektywa z poziomu ziemi. Oświetlenie złotej godziny, intensywna energia, kinowa jakość."
    Plik: images/rakieta.jpg
    Zastosowanie: pojazdy.html
    Wymiary: 1200x600px
 
 4. DESTYNACJE KOSMICZNE
-   Prompt: "A space scene showing multiple destinations: Earth with orbiting satellites, the Moon in the background, Mars with its red surface visible, and stars scattered throughout. Epic scale, scientifically accurate, vibrant colors"
+   Prompt: "Kosmiczna scena przedstawiająca wiele celów: Ziemię z krążącymi wokół niej satelitami, Księżyc w tle, Marsa z widoczną czerwoną powierzchnią oraz gwiazdy rozsiane w przestrzeni. Epicka skala, naukowa dokładność, żywe kolory."
    Plik: images/destynacje.jpg
    Zastosowanie: destynacje.html
    Wymiary: 1200x600px
 
 5. ASTRONAUTA NA TRENINGU
-   Prompt: "A professional astronaut in full spacesuit preparing for a mission, standing in front of a lunar landscape. Space capsule visible in background. Realistic, inspirational, NASA photography style"
+   Prompt: "Profesjonalny astronauta w pełnym skafandrze kosmicznym przygotowujący się do misji, stojący na tle księżycowego krajobrazu. W tle widoczna kapsuła kosmiczna. Realistyczny, inspirujący styl fotografii NASA."
    Plik: images/astronauta.jpg
    Zastosowanie: przygotowanie.html
    Wymiary: 1200x600px
@@ -41,27 +41,27 @@ DODATKOWE GRAFIKI KONIECZNE:
 ================================
 
 6. KSIĘŻYC
-   Prompt: "The Moon in spectacular detail, showing craters, mountains, and valleys. Lit from the side to show 3D texture. Against black starry space background. Photorealistic, high detail"
+   Prompt: "Księżyc ukazany w spektakularnych detalach, z widocznymi kraterami, górami i dolinami. Oświetlony z boku, aby podkreślić trójwymiarową teksturę. Na tle czarnej, gwiaździstej przestrzeni kosmicznej. Fotorealistyczny, bardzo wysoki poziom szczegółowości."
    Plik: images/ksiezyc.jpg
    Wymiary: 800x800px
 
 7. PLANETA MARS
-   Prompt: "Planet Mars in full glory showing red and orange sand dunes, Vallesy Marineris canyon, Olympus Mons volcano. Realistically rendered, space background with distant stars"
+   Prompt: "Planeta Mars w pełnej okazałości, z widocznymi czerwono-pomarańczowymi wydmami, kanionem Valles Marineris oraz wulkanem Olympus Mons. Realistyczne odwzorowanie, kosmiczne tło z odległymi gwiazdami."
    Plik: images/mars.jpg
    Wymiary: 800x800px
 
 8. GWIAZDY I WSZECHŚWIAT
-   Prompt: "A stunning view of the universe from space - billions of stars scattered across infinite darkness, nebulas in purple and blue, cosmic dust clouds. Realistic space photography style"
+   Prompt: "Zapierający dech w piersiach widok wszechświata z kosmosu – miliardy gwiazd rozsianych w nieskończonej ciemności, mgławice w odcieniach fioletu i błękitu oraz kosmiczne obłoki pyłu. Realistyczny styl fotografii kosmicznej."
    Plik: images/gwiazdy.jpg
    Wymiary: 1200x800px
 
 9. ZIEMIA Z ORBITY
-   Prompt: "Earth as seen from orbital altitude, showing day and night side, atmospheric glow, city lights on the night side. Photorealistic, taken from spacecraft perspective"
+   Prompt: "Ziemia widziana z wysokości orbitalnej, ukazująca stronę dzienną i nocną, z poświatą atmosfery oraz światłami miast po stronie nocnej. Fotorealistyczne ujęcie z perspektywy statku kosmicznego."
    Plik: images/ziemia.jpg
    Wymiary: 1200x800px
 
 10. START RAKIETY
-    Prompt: "A rocket launching into orbit with blue sky transitioning to black space. Powerful engines, bright flames, sense of motion and power. Cinematic, inspiring, dynamic composition"
+    Prompt: "Rakieta startująca na orbitę, na tle nieba przechodzącego z niebieskiego w czarną przestrzeń kosmiczną. Potężne silniki, jasne płomienie, poczucie ruchu i mocy. Kinowa, inspirująca, dynamiczna kompozycja."
     Plik: images/start.jpg
     Wymiary: 1200x800px
 
