@@ -1,0 +1,126 @@
+TURYSTYKA KOSMICZNA - PROMPT LOG
+================================
+Projekt: Strona 10-stronnicowa o Turystyce Kosmicznej
+Data: 15 lutego 2026
+Narzędzie używane: DALL-E / Bing Image Creator / Leonardo.ai
+
+PROMPTY DO GENEROWANIA GRAFIK:
+================================
+
+1. HEADER - Widok Ziemi z Kosmosu
+   Prompt: "A breathtaking view of Earth from space, with blue oceans, white clouds, and continents visible below. The curve of Earth is clearly shown against black space with stars. High resolution, realistic, NASA quality photograph"
+   Plik: images/header.jpg
+   Zastosowanie: Strona główna (index.html)
+   Wymiary: 1200x600px
+
+2. HISTORIA EKSPLORACJI KOSMOSU
+   Prompt: "A timeline illustration showing the history of space exploration from Sputnik 1957 to modern space tourism. Include iconic elements: rocket, astronaut, lunar module, ISS, SpaceX Starship. Colorful, educational, retro-futuristic style"
+   Plik: images/historia.jpg
+   Zastosowanie: historia-kosmosu.html
+   Wymiary: 1200x600px
+
+3. RAKIETA NA STARCIE
+   Prompt: "A SpaceX Falcon 9 rocket launching into the sky with massive flames and smoke billowing below. Dramatic perspective from ground level. Golden hour lighting, intense energy, cinematic quality"
+   Plik: images/rakieta.jpg
+   Zastosowanie: pojazdy.html
+   Wymiary: 1200x600px
+
+4. DESTYNACJE KOSMICZNE
+   Prompt: "A space scene showing multiple destinations: Earth with orbiting satellites, the Moon in the background, Mars with its red surface visible, and stars scattered throughout. Epic scale, scientifically accurate, vibrant colors"
+   Plik: images/destynacje.jpg
+   Zastosowanie: destynacje.html
+   Wymiary: 1200x600px
+
+5. ASTRONAUTA NA TRENINGU
+   Prompt: "A professional astronaut in full spacesuit preparing for a mission, standing in front of a lunar landscape. Space capsule visible in background. Realistic, inspirational, NASA photography style"
+   Plik: images/astronauta.jpg
+   Zastosowanie: przygotowanie.html
+   Wymiary: 1200x600px
+
+DODATKOWE GRAFIKI KONIECZNE:
+================================
+
+6. KSIĘŻYC
+   Prompt: "The Moon in spectacular detail, showing craters, mountains, and valleys. Lit from the side to show 3D texture. Against black starry space background. Photorealistic, high detail"
+   Plik: images/ksiezyc.jpg
+   Wymiary: 800x800px
+
+7. PLANETA MARS
+   Prompt: "Planet Mars in full glory showing red and orange sand dunes, Vallesy Marineris canyon, Olympus Mons volcano. Realistically rendered, space background with distant stars"
+   Plik: images/mars.jpg
+   Wymiary: 800x800px
+
+8. GWIAZDY I WSZECHŚWIAT
+   Prompt: "A stunning view of the universe from space - billions of stars scattered across infinite darkness, nebulas in purple and blue, cosmic dust clouds. Realistic space photography style"
+   Plik: images/gwiazdy.jpg
+   Wymiary: 1200x800px
+
+9. ZIEMIA Z ORBITY
+   Prompt: "Earth as seen from orbital altitude, showing day and night side, atmospheric glow, city lights on the night side. Photorealistic, taken from spacecraft perspective"
+   Plik: images/ziemia.jpg
+   Wymiary: 1200x800px
+
+10. START RAKIETY
+    Prompt: "A rocket launching into orbit with blue sky transitioning to black space. Powerful engines, bright flames, sense of motion and power. Cinematic, inspiring, dynamic composition"
+    Plik: images/start.jpg
+    Wymiary: 1200x800px
+
+INSTRUKCJE GENEROWANIA GRAFIK:
+================================
+
+1. Użyć DALL-E 3 (premium) lub Bing Image Creator (darmowy) lub Leonardo.ai
+2. Dla każdego promptu:
+   - Kliknąć "Generate" lub "Create"
+   - Poczekać 30-60 sekund
+   - Pobrać obraz w najwyższej dostępnej rozdzielczości
+   - Zapisać jako JPG w folderze images/
+
+3. Kryteria akceptacji:
+   ✓ Realistyczne, wysokiej jakości
+   ✓ Spójne kolorystycznie
+   ✓ Odpowiadające tematyce
+   ✓ Bez tekstu na obrazach
+   ✓ Wymiary odpowiadające planom
+
+4. Jeśli pierwszy wynik nie spodaba się:
+   - Regenerować z tym samym promptem
+   - Lub dostosować prompt i spróbować ponownie
+   - Zazwyczaj trzeba 2-3 próby aby uzyskać doskonały wynik
+
+NOTATKA O KOLORACH CSS:
+================================
+Plik style.css używa kolorów kosmicznych:
+- Czarne tło: #0a0e27
+- Fiolet/purpura: #7c3aed, #a78bfa
+- Złoto (akcenty): #fbbf24
+- Szary tekst: #e0e0e0
+
+Grafiki powinny komplementować te kolory - wyglądy w naturalnych kolorach przestrzeni kosmicznej.
+
+ŚCIEŻKA PLIKU OSTATECZNA:
+================================
+c:\Users\User\Desktop\turystyka-kosmiczna\
+├── index.html
+├── o-nas.html
+├── historia-kosmosu.html
+├── pojazdy.html
+├── destynacje.html
+├── cennik.html
+├── przygotowanie.html
+├── galeria.html
+├── blogi.html
+├── kontakt.html
+├── style.css
+└── images/
+    ├── header.jpg
+    ├── historia.jpg
+    ├── rakieta.jpg
+    ├── destynacje.jpg
+    ├── astronauta.jpg
+    ├── ksiezyc.jpg
+    ├── mars.jpg
+    ├── gwiazdy.jpg
+    ├── ziemia.jpg
+    └── start.jpg
+
+STATUS: ✅ GOTOWE DO GENEROWANIA GRAFIK
